@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\bin\Debug\net8.0\teste.exe
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\bin\Debug\net8.0\teste.dll
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.sourcelink.json
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.dll
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\DELL\Documents\Vitor-Sousa\Trilha_Dotnet\teste\obj\Debug\net8.0\ref\teste.dll
